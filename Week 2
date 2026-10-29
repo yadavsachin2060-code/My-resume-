@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+
+<body>
+
+    <!-- Main Heading -->
+    <h1>Sachin Yadav</h1>
+    <h2>B.Tech CSE Student</h2>
+    <h3>My Resume</h3>
+
+    <hr>
+
+    <!-- Introduction -->
+    <h2>About Me</h2>
+
+    <p>
+        Hello! My name is <strong>Sachin Yadav</strong>.
+        I am currently pursuing <strong>B.Tech in Computer Science
+        and Engineering</strong> from Invertis University.
+        I am a beginner in programming and currently learning
+        <em>Java and Web Development</em>.
+        My goal is to improve my technical skills and become
+        a successful software developer.
+    </p>
+
+    <hr>
+
+    <!-- Skills Section -->
+    <div id="skills" class="resume-section">
+        <h2>My Skills</h2>
+
+        <p><strong>Programming Language:</strong> Java</p>
+        <p><strong>Web Development:</strong> HTML Basics</p>
+        <p><strong>Other Skills:</strong> Problem Solving, Teamwork</p>
+    </div>
+
+    <hr>
+
+    <!-- Education Section -->
+    <div id="education" class="resume-section">
+        <h2>Education</h2>
+
+        <h3>B.Tech - Computer Science and Engineering</h3>
+        <p>Invertis University</p>
+
+        <h3>Class 12th</h3>
+        <p>Percentage: 74%</p>
+
+        <h3>Class 10th</h3>
+        <p>Percentage: 78%</p>
+    </div>
+
+    <hr>
+
+    <!-- Career Objective -->
+    <h2>Career Objective</h2>
+
+    <p>
+        My objective is to learn new technologies, improve my coding
+        abilities and build a successful career in the IT industry.
+    </p>
+
+    <!-- Footer -->
+    <hr>
+    <p><em>Thank you for visiting my resume page.</em></p>
+
+</body>
+</html>
